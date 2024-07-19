@@ -1,4 +1,4 @@
-# PROJECTNAME
+# Malware Analysis Lab
 
 ## Objective
 [Brief Objective - Remove this afterwards]
