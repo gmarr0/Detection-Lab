@@ -1,4 +1,4 @@
-# Malware Analysis Lab
+# Detection Lab
 
 ## Objective
 [Brief Objective - Remove this afterwards]
