@@ -23,7 +23,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ## Steps
 - <a href="https://vimeo.com/987409629?share=copy">Splunk Install On Windows Vm</a>
 - <a href="https://vimeo.com/987412215">Sysmon Install On Windows Vm</a>
-- <a href="https://vimeo.com/987414727">Windows 10 Attack & Malware Analysis W Splunk Vm</a>
+- <a href="https://vimeo.com/987414727">Windows 10 Attack & Malware Analysis With Splunk </a>
 
 
 Example below.
