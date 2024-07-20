@@ -21,8 +21,8 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
-<a href="https://vimeo.com/987409629?share=copy">Splunk Install On Windows Vm</a>
-<a href="https://vimeo.com/987409629?share=copy">Sysmon Install On Windows Vm Vm</a>
+- <a href="https://vimeo.com/987409629?share=copy">Splunk Install On Windows Vm</a>
+- <a href="https://vimeo.com/987409629?share=copy">Sysmon Install On Windows Vm Vm</a>
 
 
 Example below.
