@@ -1,4 +1,4 @@
-# Detection Lab
+# Splunk and Sysmon Telemetry
 
 ## Objective
 Installing & configuring Splunk & SysMon, Windows 10 Pentest, and analyzing malware.
